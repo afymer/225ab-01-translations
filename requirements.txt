@@ -1,0 +1,5 @@
+polib
+deepl
+tqdm
+requests
+python-dotenv
